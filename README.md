@@ -1,6 +1,6 @@
 # JFiK Lab6_1
 
-## 1 Nazwy zmiennych
+## Nazwy zmiennych
 Naszym zadaniem było przerobienie wcześniej stworzonego programu tak, by zamiast przypisywać wartość znaku można było przypisać zmienną do ciągu znaków (np. kaktus=3;).
 Aby to zrobić należało zapisywać nazwy zmiennych nie w "char*" lecz w "char**".
 
